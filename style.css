@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 1rem;
+  }
+  
+  #play-form {
+    margin-bottom: 1rem;
+  }
+  
+  #result {
+    margin-top: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
